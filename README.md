@@ -7,7 +7,7 @@ Java
 
 Eclipse IDE
 
-#Funcionamento
+# Funcionamento
 
 O programa utiliza a classe Scanner para obter as informações do usuário e as classes Client, Order, OrderItem e Product para armazenar essas informações. 
 O programa utiliza enum para definir o status do pedido. O programa também utiliza o SimpleDateFormat para formatar a data de entrada do usuário.
@@ -37,6 +37,7 @@ This program is a simple order management system developed in Java. The user can
 # Tools Used
 
 Java
+
 Eclipse IDE
 
 # Operation
