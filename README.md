@@ -28,6 +28,8 @@ Para utilizar o programa, siga os seguintes passos:
 
 5- Quando terminar de inserir todas as informações, o programa imprimirá um resumo do pedido com todas as informações inseridas.
 
+![image](https://github.com/TiagoMuller/Code_Order/assets/39675368/2735aaeb-7c1f-4383-bb59-f33f010c1b61)
+
 -------------------------------------
 
 # Java Order Management Program
